@@ -21,7 +21,9 @@ GeoTrack is a full-stack application that enables users to visualize and interac
 - Vercel (Frontend)
   
 **Backend API**
-- https://geotrack-backend-aqg6.onrender.com/api//projects
+- Base URL: https://geotrack-backend-aqg6.onrender.com  
+- Projects API: /api/projects  
+- Swagger: /swagger
 
 ## 🔌 API Integration
 
@@ -50,4 +52,5 @@ GeoTrack is a full-stack application that enables users to visualize and interac
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/PallaviEraboina/geotrack-frontend.git
+git clone https://github.com/PallaviEraboina/geotrack.git
+cd geotrack
